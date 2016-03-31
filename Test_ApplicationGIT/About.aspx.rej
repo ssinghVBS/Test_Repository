@@ -1,0 +1,10 @@
+diff a/Test_ApplicationGIT/About.aspx b/Test_ApplicationGIT/About.aspx	(rejected hunks)
+@@ -8,7 +8,7 @@
+ 
+     <article>
+         <p>        
+-            Use this area to provide additional information.
++            Use this area to provide additional information sachin.
+         </p>
+ 
+         <p>        
