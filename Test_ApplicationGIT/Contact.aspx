@@ -25,6 +25,7 @@
             <h3>Email:</h3>
         </header>
         <p>
+            sachin Singh
             <span class="label">Support:</span>
             <span><a href="mailto:Support@example.com">Support@example.com</a></span>
         </p>
